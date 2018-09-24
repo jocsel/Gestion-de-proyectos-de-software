@@ -1,0 +1,256 @@
+--create database DBAutoLavado on primary
+--(
+--	name = __DBAutoLavadox_fisico,
+--	filename='D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\DBAutoLavado.mdf',
+--	size = 5mb,
+--	filegrowth = 3mb
+--)
+--log on
+--(
+--name = DBAutoLavadox_logica,
+--filename='D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\DBAutoLavado.ldf',
+--size = 5mb,
+--filegrowth = 3mb
+--)
+--go
+--use lavado
+----use DBautolavadoOfficial
+use ingenieria
+go
+create table clientes(
+	idCliente int identity(1,1) primary key,
+	nombres nvarchar(120) not null,
+	apellido nvarchar(120) not null,	
+	correo nvarchar(80) not null,
+	celular int,
+	estado nvarchar(10) not null)
+go
+CREATE TABLE area
+(
+idArea int identity(1,1) primary key,
+area nvarchar(15) not null,
+)
+go
+create table grupoTrabajadores
+(idgrupo int identity(1,1) primary key,
+grupoTrabajadores nvarchar(15)
+)
+go
+create table empleado
+(
+	idEmpleado int identity(1,1)  primary key not null,
+	celular int,
+	direccion nvarchar(90) not null,	
+	cedula nvarchar(16) not null,
+	apellidos nvarchar(120) not null,
+	nombres nvarchar(80) not null,
+	fechaNac datetime not null,
+	salario money not null,
+	cargo nvarchar(50),
+	estado nvarchar(10),
+	idArea int foreign key references area(idArea),
+	idgrupo int foreign key references grupoTrabajadores (idgrupo))
+
+go
+
+CREATE TABLE Usuarios(
+	idUsuario int identity(1,1) NOT NULL,
+	Usuario varchar(50) unique NULL,
+	Password nvarchar(max) NULL,		
+	idEmpleado Int Foreign Key References empleado(idEmpleado),
+	Constraint PK_idUsuario_Usuarios Primary Key(idUsuario));
+GO
+--Todo Usuario lleva un Id
+
+create table permiso
+(
+	idUsuario int Foreign Key references Usuarios(idUsuario),
+	venta bit null,
+	mantenimiento bit null,
+	lavado bit null,
+	compra bit null,
+	empleado bit null,
+	Tusuario bit null,
+	producto bit null,
+	proveedor bit null,
+	Password bit null
+)
+go
+Create Table Marcas(
+CodMarca Nvarchar(5) Primary Key,
+Marca Nvarchar(50))
+Go
+----Habra que crear producto por linea
+
+create table Productos(
+	CodProducto nvarchar(20) primary key not null,	
+	Producto nvarchar(50),
+	CodMarca nvarchar(5) Foreign Key References Marcas(CodMarca),
+	CodSAC Nvarchar(20),
+	Existencia Numeric(18,2),
+	Costo Numeric(18,2),
+	Precio Numeric(18,2),
+	Activo bit)
+go
+---Los productos suelen llevar un codigo de barra, de no ser asi se crea un codigo interno.. "-.- TE PASAS
+create table venta(
+	NumVenta int primary key not null,	
+	idCliente int foreign key references clientes(idCliente),
+	idUsuario int foreign key references Usuarios(idUsuario),
+	fechaFac datetime,
+	Subtotal Numeric(18,2),
+	Descuento Numeric(18,2),
+	total Numeric(18,2))
+go
+
+create table detalleventa(
+	cantidad int,
+	idVenta int references venta,
+	idProducto nvarchar(20) foreign key references productos(CodProducto),
+	totaldetalle decimal(18,2)	
+)
+go
+create table proveedor(
+	idProveedor int primary key not null,
+	apellidos nvarchar(120),
+	nombres nvarchar(80) not null,
+	nombreempresa nvarchar(80) ,
+	direccion nvarchar(max) not null,
+	RUC Nvarchar(50),	
+	telefono Nvarchar(12),
+	correo nvarchar(80) not null)
+go
+
+create table compra(
+	idCompra int identity primary key not null,
+	idProveedor int foreign key references proveedor(idProveedor),
+	total Numeric(18,2),
+	fechaCompra datetime,
+	Aplicada bit,)
+go
+create table detallecompra
+(
+	Id Int Primary Key,	
+	idCompra int references compra,
+	idProducto Nvarchar(20) Foreign Key references productos(CodProducto),
+	cantidad Numeric(18,2) not null,
+	total Numeric(18,2) not null,
+	Margen Numeric(18,2),
+)
+go
+---El margen en la compra indica el porcentaje que le vas a aplicar para la ganancia
+
+create table servicioMantenimiento
+(
+
+	idServicioMantenimiento int identity(1,1) primary key not null,
+	servicioMantenimiento nvarchar(50)
+)
+go
+create table VehiculoMantenimiento
+(
+	idVehiculoMantenimiento int identity(1,1) primary key not null,
+	vehiculoMantenimiento nvarchar(50),	
+	
+)
+go
+create table ServicioVehiculo
+(
+idServicioVehiculo int identity(1,1) primary key,
+idServicioMantenimiento int foreign key references servicioMantenimiento(idServicioMantenimiento),
+idVehiculoMantenimiento int foreign key references vehiculoMantenimiento(idVehiculoMantenimiento),
+precio money
+)
+go
+create table mantenimiento
+(
+	idMantenimiento int identity primary key not null,
+	total money not null,
+	fecha datetime,
+	placa nvarchar(10) not null,
+	idgrupo int foreign key references grupoTrabajadores (idgrupo),
+	idservicioVehiculo int foreign key references ServicioVehiculo(idServicioVehiculo),
+	usuario nvarchar(100)
+)
+go
+
+
+create table servicioLavado
+(
+	
+	idServicioLavado int identity(1,1) primary key not null,
+	servicioLavado nvarchar(50)
+)
+go
+create table VehiculoLavado
+(
+	idVehiculoLavado int identity(1,1) primary key not null,
+	vehiculoLavado nvarchar(50),
+	
+)
+go
+create table LavadoVehiculo(
+idLavadoVehiculo int identity(1,1) primary key,
+idServicioLavado int foreign key references serviciolavado(idServicioLavado),
+idVehiculoLavado int foreign key references VehiculoLavado(idVehiculoLavado),
+precio money
+)
+go
+create table lavado
+(
+	idLavado int identity(1,1) primary key not null,
+	total money not null,
+	fecha datetime,
+	placa nvarchar(10) not null,
+	idLavadoVehiculo int foreign key references LavadoVehiculo(idLavadoVehiculo),
+	idgrupo int foreign key references grupoTrabajadores(idgrupo), 
+	usuario nvarchar(100)
+		)
+go
+create table categoria (
+idcategoria int primary key,
+CodProducto nvarchar(20) foreign key references Productos(CodProducto)
+)
+go
+create table almacen (
+idalmacen int primary key,
+nombre nvarchar(100),
+ubicacion nvarchar(100),
+descripcion nvarchar(100),
+idcategoria int foreign key references categoria(idcategoria)
+)
+go
+create table tipopago(
+codigotipopago nvarchar(50) primary key , 
+Moneda nvarchar(15),
+tarjeta bit
+)
+go
+create table pago(
+numerodocumento int,
+cordobas numeric(18,6),
+dolares numeric(18,6),
+vuelto numeric(18,6),
+fecha datetime,
+idUsuario int foreign key references Usuarios(idUsuario),
+montofactura numeric(18,2)
+)
+go
+create table detallepago(
+iddetallepago int primary key identity(1,1),
+numerodocumento int ,
+codigotipopago nvarchar(50) foreign key references tipopago(codigotipopago),
+monto numeric(18,2)
+)
+go
+create table devolucion(
+Iddevolucion int primary key identity(1,1),
+idcliente int foreign key references clientes(idcliente),
+NumVenta int foreign key references venta(NumVenta),
+fecha date, 
+observacion nvarchar(100)
+)
+
+
+
+

@@ -1,0 +1,86 @@
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Entidades\bin\Debug\Entidades.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,1331 @@
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+D:\10mo Cuatrimestres\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL2\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gelder\Desktop\ORIGINAL2\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\ORIGINAL2\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gelder\Desktop\Nueva carpeta\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gelder\Desktop\xxxx\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+D:\10mo Cuatrimestres\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gelder\Desktop\ORIGINAL3000\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipl.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarventa.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.VentanaFactura.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\Original II\OFICIALXXX\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+F:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\git II\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
+D:\10mo Cuatrimestres\Ingenieria de software\Final\original IV\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+L:\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\Gelder\Desktop\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmreporteventas.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteMantenimiento.resources
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+E:\PortableGit\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoEmpleado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmreporteventas.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteMantenimiento.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoVehiculo.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Final\Original Reparacion\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoServicio.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoEmpleado.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoServicio.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoVehiculo.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteMantenimiento.resources
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Gelder\Desktop\ORIGINAL\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoCompra.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoCompra.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoEmpleado.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoServicio.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoVehiculo.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteMantenimiento.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Reportes.FrmReporteCompra.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Reportes.FrmReporteVenta.resources
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gelder\Desktop\XXXXX\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoCompra.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoEmpleado.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoServicio.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoVehiculo.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteMantenimiento.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Reportes.FrmReporteCompra.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Reportes.FrmReporteVenta.resources
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\Laboratorio 1 - PC01\Desktop\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoCompra.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoEmpleado.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoServicio.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoVehiculo.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteMantenimiento.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Reportes.FrmReporteCompra.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Reportes.FrmReporteVenta.resources
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+E:\ORIGINAL-master\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoCompra.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoEmpleado.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoServicio.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoVehiculo.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteMantenimiento.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Reportes.FrmReporteCompra.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Reportes.FrmReporteVenta.resources
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+D:\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe.config
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.exe
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.exe
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Presentacion.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Entidades.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Negocio.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\Datos.pdb
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.FrmAuditoriaCompra.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.AuditoriaVenta.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.fmrAuditoriaLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAlmacen.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmArea.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmAuditoriaMantenimiento.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarArea.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcategoria.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarcliente.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarEmpleado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaCompra.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfacturaINACTIVA.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarfactura.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarGrupo.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarLV.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarmarca.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoCompra.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproductoINACTIVO.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarproducto.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarproveedor.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicio.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarServicioMan.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmbuscarusuario.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmBuscarVehiculo.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCategoria.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmclientes.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmControlEntrada.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucioncompra.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmGrupoTrabajadores.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLavadoVehiculo.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMantenimineto.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMarca.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMenuprincipal.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoEmpleado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoServicio.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteLavadoVehiculo.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmPago.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProductos.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmReporteLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioMantenimiento.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmServicioVehiculo.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVehiculoMan.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmDevolucion.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmFacturaLavado.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.frmMostrarReporteMantenimiento.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Reportes.FrmReporteCompra.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.Reportes.FrmReporteVenta.resources
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.cache
+H:\Clases de la UNI\10mo cuatrimestres\Ingenieria de software\Proyecto final Auto lavado\CD\Codigo Fuente\Proyecto final\Sistema auto lavado\Presentacion\obj\Debug\RdlCompile.compiled
