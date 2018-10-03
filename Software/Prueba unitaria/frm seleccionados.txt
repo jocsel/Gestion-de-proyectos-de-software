@@ -1,0 +1,10 @@
+Pruebas unitarias:
+frmMenu 
+frmEmpleado
+frmProveedor
+frmClientes
+frmArea
+frmGrupoTrabajo
+frmUsuario
+frmLavado
+C:\\Program Files (x86)\\JAGUAR\\My Product Name\\DB\\manual.pdf

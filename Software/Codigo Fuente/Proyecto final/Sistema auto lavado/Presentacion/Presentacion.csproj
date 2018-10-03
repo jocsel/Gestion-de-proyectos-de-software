@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{100F878C-9B43-449A-B7C8-34A916D59EE4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Graphicloads-Colorful-Long-Shadow-Car1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dtsLavado.cs">
+      <DependentUpon>dtsLavado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsLavado.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsLavado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAuditoriaCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAuditoriaCompra.Designer.cs">
+      <DependentUpon>FrmAuditoriaCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuditoriaVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditoriaVenta.Designer.cs">
+      <DependentUpon>AuditoriaVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmrAuditoriaLavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmrAuditoriaLavado.Designer.cs">
+      <DependentUpon>fmrAuditoriaLavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlmacen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlmacen.Designer.cs">
+      <DependentUpon>frmAlmacen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArea.Designer.cs">
+      <DependentUpon>frmArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAuditoriaMantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAuditoriaMantenimiento.Designer.cs">
+      <DependentUpon>frmAuditoriaMantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarArea.Designer.cs">
+      <DependentUpon>frmBuscarArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbuscarcategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbuscarcategoria.Designer.cs">
+      <DependentUpon>frmbuscarcategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbuscarcliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbuscarcliente.Designer.cs">
+      <DependentUpon>frmbuscarcliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarEmpleado.Designer.cs">
+      <DependentUpon>frmBuscarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbuscarfacturaCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbuscarfacturaCompra.Designer.cs">
+      <DependentUpon>frmbuscarfacturaCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbuscarfacturaINACTIVA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbuscarfacturaINACTIVA.Designer.cs">
+      <DependentUpon>frmbuscarfacturaINACTIVA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbuscarfactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbuscarfactura.Designer.cs">
+      <DependentUpon>frmbuscarfactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarGrupo.Designer.cs">
+      <DependentUpon>frmBuscarGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarLV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarLV.Designer.cs">
+      <DependentUpon>frmBuscarLV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbuscarmarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbuscarmarca.Designer.cs">
+      <DependentUpon>frmbuscarmarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarproductoCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarproductoCompra.Designer.cs">
+      <DependentUpon>frmBuscarproductoCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarproductoINACTIVO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarproductoINACTIVO.Designer.cs">
+      <DependentUpon>frmBuscarproductoINACTIVO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarproducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarproducto.Designer.cs">
+      <DependentUpon>frmBuscarproducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbuscarproveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbuscarproveedor.Designer.cs">
+      <DependentUpon>frmbuscarproveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarServicio.Designer.cs">
+      <DependentUpon>frmBuscarServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarServicioMan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarServicioMan.Designer.cs">
+      <DependentUpon>frmBuscarServicioMan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbuscarusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbuscarusuario.Designer.cs">
+      <DependentUpon>frmbuscarusuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarVehiculo.Designer.cs">
+      <DependentUpon>frmBuscarVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategoria.Designer.cs">
+      <DependentUpon>frmCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmclientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmclientes.Designer.cs">
+      <DependentUpon>frmclientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCompra.Designer.cs">
+      <DependentUpon>frmCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControlEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControlEntrada.Designer.cs">
+      <DependentUpon>frmControlEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDevolucioncompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDevolucioncompra.Designer.cs">
+      <DependentUpon>frmDevolucioncompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmpleado.Designer.cs">
+      <DependentUpon>frmEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupoTrabajadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrupoTrabajadores.Designer.cs">
+      <DependentUpon>frmGrupoTrabajadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicio.Designer.cs">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLavado.Designer.cs">
+      <DependentUpon>frmLavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLavadoVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLavadoVehiculo.Designer.cs">
+      <DependentUpon>frmLavadoVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimineto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimineto.Designer.cs">
+      <DependentUpon>frmMantenimineto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMarca.Designer.cs">
+      <DependentUpon>frmMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuprincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuprincipal.Designer.cs">
+      <DependentUpon>frmMenuprincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostrarReporteLavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMostrarReporteLavado.Designer.cs">
+      <DependentUpon>frmMostrarReporteLavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostrarReporteLavadoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMostrarReporteLavadoEmpleado.Designer.cs">
+      <DependentUpon>frmMostrarReporteLavadoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostrarReporteLavadoServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMostrarReporteLavadoServicio.Designer.cs">
+      <DependentUpon>frmMostrarReporteLavadoServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostrarReporteLavadoVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMostrarReporteLavadoVehiculo.Designer.cs">
+      <DependentUpon>frmMostrarReporteLavadoVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPago.Designer.cs">
+      <DependentUpon>frmPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductos.Designer.cs">
+      <DependentUpon>frmProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProveedor.Designer.cs">
+      <DependentUpon>frmProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteLavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteLavado.Designer.cs">
+      <DependentUpon>frmReporteLavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmServicioLavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServicioLavado.Designer.cs">
+      <DependentUpon>frmServicioLavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmServicioMantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServicioMantenimiento.Designer.cs">
+      <DependentUpon>frmServicioMantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmServicioVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServicioVehiculo.Designer.cs">
+      <DependentUpon>frmServicioVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVehiculoLavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVehiculoLavado.Designer.cs">
+      <DependentUpon>frmVehiculoLavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVehiculoMan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVehiculoMan.Designer.cs">
+      <DependentUpon>frmVehiculoMan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDevolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDevolucion.Designer.cs">
+      <DependentUpon>frmDevolucion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVenta.Designer.cs">
+      <DependentUpon>frmVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="IngenieriaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IngenieriaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\DataSetReporteCompra.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetReporteCompra.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetReporteVenta.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetReporteVenta.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmFacturaLavado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmFacturaLavado.Designer.cs">
+      <DependentUpon>frmFacturaLavado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmMostrarReporteMantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmMostrarReporteMantenimiento.Designer.cs">
+      <DependentUpon>frmMostrarReporteMantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteCompra.Designer.cs">
+      <DependentUpon>FrmReporteCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteVenta.Designer.cs">
+      <DependentUpon>FrmReporteVenta.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmAuditoriaCompra.resx">
+      <DependentUpon>FrmAuditoriaCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditoriaVenta.resx">
+      <DependentUpon>AuditoriaVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmrAuditoriaLavado.resx">
+      <DependentUpon>fmrAuditoriaLavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlmacen.resx">
+      <DependentUpon>frmAlmacen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArea.resx">
+      <DependentUpon>frmArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAuditoriaMantenimiento.resx">
+      <DependentUpon>frmAuditoriaMantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarArea.resx">
+      <DependentUpon>frmBuscarArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbuscarcategoria.resx">
+      <DependentUpon>frmbuscarcategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbuscarcliente.resx">
+      <DependentUpon>frmbuscarcliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarEmpleado.resx">
+      <DependentUpon>frmBuscarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbuscarfacturaCompra.resx">
+      <DependentUpon>frmbuscarfacturaCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbuscarfacturaINACTIVA.resx">
+      <DependentUpon>frmbuscarfacturaINACTIVA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbuscarfactura.resx">
+      <DependentUpon>frmbuscarfactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarGrupo.resx">
+      <DependentUpon>frmBuscarGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarLV.resx">
+      <DependentUpon>frmBuscarLV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbuscarmarca.resx">
+      <DependentUpon>frmbuscarmarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarproductoCompra.resx">
+      <DependentUpon>frmBuscarproductoCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarproductoINACTIVO.resx">
+      <DependentUpon>frmBuscarproductoINACTIVO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarproducto.resx">
+      <DependentUpon>frmBuscarproducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbuscarproveedor.resx">
+      <DependentUpon>frmbuscarproveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarServicio.resx">
+      <DependentUpon>frmBuscarServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarServicioMan.resx">
+      <DependentUpon>frmBuscarServicioMan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbuscarusuario.resx">
+      <DependentUpon>frmbuscarusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarVehiculo.resx">
+      <DependentUpon>frmBuscarVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategoria.resx">
+      <DependentUpon>frmCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmclientes.resx">
+      <DependentUpon>frmclientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCompra.resx">
+      <DependentUpon>frmCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControlEntrada.resx">
+      <DependentUpon>frmControlEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDevolucioncompra.resx">
+      <DependentUpon>frmDevolucioncompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmpleado.resx">
+      <DependentUpon>frmEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrupoTrabajadores.resx">
+      <DependentUpon>frmGrupoTrabajadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInicio.resx">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLavado.resx">
+      <DependentUpon>frmLavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLavadoVehiculo.resx">
+      <DependentUpon>frmLavadoVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimineto.resx">
+      <DependentUpon>frmMantenimineto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMarca.resx">
+      <DependentUpon>frmMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuprincipal.resx">
+      <DependentUpon>frmMenuprincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMostrarReporteLavado.resx">
+      <DependentUpon>frmMostrarReporteLavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMostrarReporteLavadoEmpleado.resx">
+      <DependentUpon>frmMostrarReporteLavadoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMostrarReporteLavadoServicio.resx">
+      <DependentUpon>frmMostrarReporteLavadoServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMostrarReporteLavadoVehiculo.resx">
+      <DependentUpon>frmMostrarReporteLavadoVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPago.resx">
+      <DependentUpon>frmPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductos.resx">
+      <DependentUpon>frmProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProveedor.resx">
+      <DependentUpon>frmProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteLavado.resx">
+      <DependentUpon>frmReporteLavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServicioLavado.resx">
+      <DependentUpon>frmServicioLavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServicioMantenimiento.resx">
+      <DependentUpon>frmServicioMantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServicioVehiculo.resx">
+      <DependentUpon>frmServicioVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVehiculoLavado.resx">
+      <DependentUpon>frmVehiculoLavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVehiculoMan.resx">
+      <DependentUpon>frmVehiculoMan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDevolucion.resx">
+      <DependentUpon>frmDevolucion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVenta.resx">
+      <DependentUpon>frmVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="informeLavado.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Reportes\frmFacturaLavado.resx">
+      <DependentUpon>frmFacturaLavado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmMostrarReporteMantenimiento.resx">
+      <DependentUpon>frmMostrarReporteMantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmReporteCompra.resx">
+      <DependentUpon>FrmReporteCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmReporteVenta.resx">
+      <DependentUpon>FrmReporteVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReportCompra.rdlc" />
+    <EmbeddedResource Include="Reportes\ReportVenta.rdlc" />
+    <EmbeddedResource Include="Reportes\rptFacturarLavado.rdlc" />
+    <EmbeddedResource Include="Reportes\rptFacturarMantenimiento.rdlc" />
+    <EmbeddedResource Include="rptLavadoServicio.rdlc" />
+    <EmbeddedResource Include="rptLavadoVehiculo.rdlc" />
+    <EmbeddedResource Include="rptReporteLavadoEmpleado.rdlc" />
+    <None Include="dtsLavado.xsc">
+      <DependentUpon>dtsLavado.xsd</DependentUpon>
+    </None>
+    <None Include="dtsLavado.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsLavado.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsLavado.xss">
+      <DependentUpon>dtsLavado.xsd</DependentUpon>
+    </None>
+    <None Include="IngenieriaDataSet.xsc">
+      <DependentUpon>IngenieriaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="IngenieriaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>IngenieriaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="IngenieriaDataSet.xss">
+      <DependentUpon>IngenieriaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reportes\DataSetReporteCompra.xsc">
+      <DependentUpon>DataSetReporteCompra.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetReporteCompra.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetReporteCompra.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetReporteCompra.xss">
+      <DependentUpon>DataSetReporteCompra.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetReporteVenta.xsc">
+      <DependentUpon>DataSetReporteVenta.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetReporteVenta.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetReporteVenta.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetReporteVenta.xss">
+      <DependentUpon>DataSetReporteVenta.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atomix_user31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{3b32c077-33f2-4fe1-867c-a97a5e5f6cc7}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{6700d4c7-7c66-407f-b2ad-c25a575c0531}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar-default-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Key-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Graphicloads-Colorful-Long-Shadow-Car.ico" />
+    <Content Include="Graphicloads-Colorful-Long-Shadow-Car1.ico" />
+    <None Include="Resources\icons8-literatura-48.png" />
+    <None Include="Resources\icons8-comprar-963.png" />
+    <None Include="Resources\icons8-vender-stock-961.png" />
+    <None Include="Resources\icons8-flecha-direccional-horizontal-801.png" />
+    <None Include="Resources\icons8-factura-64.png" />
+    <None Include="Resources\icons8-encuesta-48.png" />
+    <None Include="Resources\to-do.png" />
+    <None Include="Resources\icons8-lista-962.png" />
+    <None Include="Resources\icons8-datos-salientes-961.png" />
+    <None Include="Resources\icons8-datos-salientes-96.png" />
+    <None Include="Resources\icons8-comprar-962.png" />
+    <None Include="Resources\icons8-comprar-961.png" />
+    <None Include="Resources\icons8-búsqueda-483.png" />
+    <None Include="Resources\icons8-menos-321.png" />
+    <None Include="Resources\icons8-más-32 %281%291.png" />
+    <None Include="Resources\icons8-eliminar-321.png" />
+    <None Include="Resources\icons8-bolsa-de-dinero-321.png" />
+    <None Include="Resources\icons8-por-nueva-copia-403.png" />
+    <None Include="Resources\icons8-por-nueva-copia-402.png" />
+    <None Include="Resources\icons8-búsqueda-482.png" />
+    <None Include="Resources\icons8-búsqueda-481.png" />
+    <None Include="Resources\icons8-bolsa-de-dinero-32.png" />
+    <None Include="Resources\icons8-menos-32.png" />
+    <None Include="Resources\icons8-más-32 %281%29.png" />
+    <None Include="Resources\icons8-más-32.png" />
+    <None Include="Resources\icons8-eliminar-32.png" />
+    <None Include="Resources\icons8-guardar-32.png" />
+    <None Include="Resources\icons8-guardar-16.png" />
+    <None Include="Resources\edit-user-male.png" />
+    <None Include="Resources\icons8-cancel-483.png" />
+    <None Include="Resources\icons8-cancel-482.png" />
+    <None Include="Resources\icons8-guardar-481.png" />
+    <None Include="Resources\icons8-por-nueva-copia-401.png" />
+    <None Include="Resources\icons8-editar-propiedad-482.png" />
+    <None Include="Resources\icons8-editar-propiedad-481.png" />
+    <None Include="Resources\icons8-cancel-481.png" />
+    <None Include="Resources\icons8-cancel-48.png" />
+    <None Include="Resources\icons8-guardar-48.png" />
+    <None Include="Resources\icons8-editar-propiedad-48.png" />
+    <None Include="Resources\icons8-por-nueva-copia-40.png" />
+    <None Include="Resources\icons8-búsqueda-48.png" />
+    <None Include="Resources\icons8-búsqueda-480.png" />
+    <None Include="Resources\icons8-orden-de-compra-60.png" />
+    <None Include="Resources\icons8-orden-de-compra-90.png" />
+    <None Include="Resources\icons8-flecha-direccional-horizontal-80.png" />
+    <None Include="Resources\icons8-encuesta-96.png" />
+    <None Include="Resources\icons8-reembolso-48.png" />
+    <None Include="Resources\empleado.png" />
+    <None Include="Resources\icons8-factura-96.png" />
+    <None Include="Resources\dfa3.png" />
+    <None Include="Resources\icons8-carro-de-remolque-961.png" />
+    <None Include="Resources\icons8-producto-962.png" />
+    <None Include="Resources\icons8-conferencia-961.png" />
+    <None Include="Resources\icons8-ayuda-96.png" />
+    <None Include="Resources\icons8-apagar-96.png" />
+    <None Include="Resources\icons8-tesla-modelo-x-96.png" />
+    <None Include="Resources\icons8-servicio-de-coche-128.png" />
+    <None Include="Resources\icons8-embotellamiento-481.png" />
+    <None Include="Resources\dfa2.png" />
+    <None Include="Resources\dfa1.png" />
+    <None Include="Resources\icons8-carro-de-remolque-96.png" />
+    <None Include="Resources\icons8-motor-96.png" />
+    <None Include="Resources\icons8-embotellamiento-48.png" />
+    <None Include="Resources\icons8-rueda-80.png" />
+    <None Include="Resources\dfa.png" />
+    <None Include="Resources\car1.png" />
+    <None Include="Resources\car.png" />
+    <None Include="Resources\dasfadsf.png" />
+    <None Include="Resources\icons8-red-48.png" />
+    <None Include="Resources\icons8-conferencia-96.png" />
+    <None Include="Resources\icons8-grupo-de-usuarios-hombre-hombre-96.png" />
+    <None Include="Resources\icons8-canales-de-venta-96 %281%29.png" />
+    <None Include="Resources\icons8-categoría-961.png" />
+    <None Include="Resources\icons8-garaje-cerrado-962.png" />
+    <None Include="Resources\icons8-producto-961.png" />
+    <None Include="Resources\icons8-garaje-cerrado-961.png" />
+    <None Include="Resources\conference.png" />
+    <None Include="Resources\icons8-añadir-grupo-de-usuarios-hombre-hombre-16.png" />
+    <None Include="Resources\icons8-proveedor-96.png" />
+    <None Include="Resources\icons8-usuario-96.png" />
+    <None Include="Resources\icons8-lista-961.png" />
+    <None Include="Resources\icons8-deshacer-402.png" />
+    <None Include="Resources\icons8-deshacer-401.png" />
+    <None Include="Resources\icons8-deshacer-40.png" />
+    <None Include="Resources\Back.gif" />
+    <None Include="Resources\add-user-group-man-man.png" />
+    <None Include="Resources\add-user-group-man-man1.png" />
+    <Content Include="Resources\c3.png" />
+    <None Include="Resources\icons8-vender-641.png" />
+    <None Include="Resources\icons8-comprar-641.png" />
+    <None Include="Resources\icons8-vender-stock-96.png" />
+    <None Include="Resources\icons8-comprar-96.png" />
+    <None Include="Resources\icons8-categoría-96.png" />
+    <None Include="Resources\icons8-garaje-cerrado-96.png" />
+    <None Include="Resources\icons8-producto-96.png" />
+    <None Include="Resources\icons8-producto-641.png" />
+    <None Include="Resources\icons8-vender-64.png" />
+    <None Include="Resources\icons8-usuario-64.png" />
+    <None Include="Resources\icons8-rueda-64.png" />
+    <None Include="Resources\icons8-producto-64.png" />
+    <None Include="Resources\icons8-maximizar-la-ventana-96.png" />
+    <None Include="Resources\icons8-lista-96.png" />
+    <None Include="Resources\icons8-invitado-masculino-64.png" />
+    <None Include="Resources\icons8-grupo-de-usuarios-hombre-hombre-64.png" />
+    <None Include="Resources\icons8-garaje-64.png" />
+    <None Include="Resources\icons8-factura-64 %281%29.png" />
+    <None Include="Resources\icons8-comprar-64.png" />
+    <None Include="Resources\icons8-cierre-de-sesión-redondeado-64.png" />
+    <None Include="Resources\icons8-carpeta-de-usuario-64.png" />
+    <None Include="Resources\Graphicloads-Colorful-Long-Shadow-Car1.ico" />
+    <None Include="Resources\car-flat.png" />
+    <None Include="Resources\215810.png" />
+    <None Include="Resources\Graphicloads-Colorful-Long-Shadow-Car.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
